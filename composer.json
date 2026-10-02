@@ -1,0 +1,8 @@
+{
+    "name": "student/video-comments",
+    "description": "Comments-sectie onder een video (PHP + MySQL)",
+    "require": {
+        "php": ">=8.1",
+        "nesbot/carbon": "^3.0"
+    }
+}
